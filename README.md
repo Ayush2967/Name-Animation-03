@@ -6,7 +6,7 @@ Here I'll trying to create text using particles in the browser canvas using HTML
 
 ### DEMO
 
-<https://nadeemshakya.github.io/Text-to-Point-to-Text-Conversion-Animation/>
+
 
 ### SCREENSHOT
 
