@@ -26,4 +26,9 @@ Here I'll trying to create text using particles in the browser canvas using HTML
 ```javascript
         let x = linearPosition - (Math.floor(linearPosition / canvas.width) * canvas.width);
 ```
+<hr>
+<p align="center">
+  Made By Ayush Jain with ❤️
+  </p>
+  
 
